@@ -20,10 +20,3 @@ This project contains a collection of Python scripts to calculate various text s
 ## Introduction
 
 Text similarity measures are essential in various applications such as information retrieval, document clustering, plagiarism detection, and more. This project provides implementations of several commonly used text similarity measures.
-
-## Installation
-
-1. Clone the repository:
-
-```sh
-git clone https://github.com/yourusername/your-repo-name.git
